@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 user2 update init
+=======
+user1 update init
+>>>>>>> 07f7f2bdf1049654ba5fdeac7ce98d7efb1c3148
 init develop
